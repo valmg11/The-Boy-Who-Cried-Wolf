@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <footer>Footer</footer>
+        <footer>The moral of the story is that once you begin to lie, other won'y believe the truth.</footer>
     );
 }
 

@@ -1,6 +1,6 @@
 function Header() {
     return (
-        <header>Header</header>
+        <header>The Boy Who Cried Wolf</header>
     );
 }
 
